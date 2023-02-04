@@ -1,9 +1,9 @@
 body {
-    background-color: rgb(102, 21, 21);
+    background-color: rgb(112, 35, 35);
   }
   
   h1 {
-    color: rgb(8, 8, 8);
+    color: rgb(244, 242, 242);
     text-align: center;
   }
   
